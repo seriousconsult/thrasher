@@ -11,6 +11,10 @@ quickstart.py
 # C extensions
 *.so
 
+
+#db
+*.db
+
 # Distribution / packaging
 .Python
 env/
